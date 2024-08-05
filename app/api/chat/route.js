@@ -1,7 +1,6 @@
 import { NextResponse } from 'next/server';
 import OpenAI from 'openai';
 
-OPENAI_API_KEY=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
 
 
 const systemPrompt = `
